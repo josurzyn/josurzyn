@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, I'm Jo 🙋🏻‍♀️
+
+- 👩🏻‍💻 Web developer at [fullstax](fullstax.de)
+- 🌱 Always looking to level up
+- 🍻 Sometimes makes silly things like [bierdog](https://bierdog.netlify.app/)
+- 🇬🇧🇵🇱🇩🇪 Polish Brit in Germany
+- 🎶 Music always on
+- ⛰ Likes hiking (watch this space 👀)
+
 
 <!--
 **josurzyn/josurzyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
