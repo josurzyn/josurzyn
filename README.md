@@ -4,7 +4,6 @@
 - 🌱 Always looking to level up
 - 🍻 Sometimes makes silly things like [bierdog](https://bierdog.netlify.app/)
 - 🇬🇧🇵🇱🇩🇪 Polish Brit in Germany
-- 🎶 Music always on
 - ⛰ Likes hiking (watch this space 👀)
 
 
