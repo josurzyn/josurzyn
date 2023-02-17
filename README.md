@@ -1,6 +1,6 @@
 ### Hello, I'm Jo 🙋🏻‍♀️
 
-- 👩🏻‍💻 Web developer at [fullstax](fullstax.de)
+- 👩🏻‍💻 Web developer
 - 🌱 Always looking to level up
 - 🍻 Sometimes makes silly things like [bierdog](https://bierdog.netlify.app/)
 - 🇬🇧🇵🇱🇩🇪 Polish Brit in Germany
